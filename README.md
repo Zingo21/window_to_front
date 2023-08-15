@@ -1,15 +1,6 @@
 # window_to_front
 
-A new Flutter plugin project.
+A Flutter plugin for making an app appear in front after being logged in by the web browser.
 
-## Getting Started
-
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This plugin was built with help from this codelab from [Google Developers](https://codelabs.developers.google.com/codelabs/flutter-github-client#0).
 
